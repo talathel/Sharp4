@@ -1,0 +1,15 @@
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/bin/Debug/net5.0/Lab_4.deps.json
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/bin/Debug/net5.0/Lab_4.runtimeconfig.json
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/bin/Debug/net5.0/Lab_4.runtimeconfig.dev.json
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/bin/Debug/net5.0/Lab_4.dll
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/bin/Debug/net5.0/ref/Lab_4.dll
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/bin/Debug/net5.0/Lab_4.pdb
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/obj/Debug/net5.0/Lab_4.csproj.AssemblyReference.cache
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/obj/Debug/net5.0/Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/obj/Debug/net5.0/Lab_4.AssemblyInfoInputs.cache
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/obj/Debug/net5.0/Lab_4.AssemblyInfo.cs
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/obj/Debug/net5.0/Lab_4.csproj.CoreCompileInputs.cache
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/obj/Debug/net5.0/Lab_4.dll
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/obj/Debug/net5.0/ref/Lab_4.dll
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/obj/Debug/net5.0/Lab_4.pdb
+/Users/vladimirlazarev/RiderProjects/Lab_4/Lab_4/obj/Debug/net5.0/Lab_4.genruntimeconfig.cache
